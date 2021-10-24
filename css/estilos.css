@@ -22,6 +22,11 @@ body {
     vertical-align: middle;
 }
 
+#post #imglogo {
+    display: block;
+    margin: auto;
+}
+
 #cabecera #tagline {
     padding: 0 0 0 1em;
     font-weight: normal;
