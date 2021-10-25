@@ -1,12 +1,8 @@
 # Hyperblog 🔥
 Prueba repositorio del [Curso Git y GitHub][2]
-sed -i 's|href="http|target="_blank" href="http|g' index.html
-
-Fuente: https://www.iteramos.com/pregunta/59844/markdown-abre-un-nuevo-enlace-de-ventana
-
-
+ <a href="http://www.deividtorresc.ml/ " target="_blank">aquí</a> 
 > Esta es una pequeña prueba de lo que se hará mas adelante en otros proyectos
-- J.T Maston
+- J.T Maston:
 
 ##En este curso aprenderemos
 - Control de versiones
@@ -15,7 +11,7 @@ Fuente: https://www.iteramos.com/pregunta/59844/markdown-abre-un-nuevo-enlace-de
 - Comandos de Git
 
 Este **README.md** es un archivo de prueba de lo que serán grandes proyectos
-Visita la página web donde está alojado <a href="http://www.deividtorresc.ml/ " target="_blank">aquí</a> 
+Visita la página web donde está alojado [**aquí**][1]
 
 [1]: http://www.deividtorresc.ml/ "aquí"
 
