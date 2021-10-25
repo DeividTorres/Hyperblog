@@ -11,7 +11,7 @@ Prueba repositorio del [Curso Git y GitHub][2]
 - Comandos de Git
 
 Este **README.md** es un archivo de prueba de lo que serán grandes proyectos
-Visita la página web donde está alojado a href="http://www.deividtorresc.ml/ " target="_blank">aquí</a> 
+Visita la página web donde está alojado <a href="http://www.deividtorresc.ml/ " target="_blank">aquí</a> 
 
 [1]: http://www.deividtorresc.ml/ "aquí"
 
