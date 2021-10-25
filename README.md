@@ -1,5 +1,7 @@
 # Hyperblog 🔥
 Prueba repositorio del [Curso Git y GitHub][2]
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
 
 > Esta es una pequeña prueba de lo que se hará mas adelante en otros proyectos
 - J.T Maston
