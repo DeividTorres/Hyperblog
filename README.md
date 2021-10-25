@@ -1,6 +1,8 @@
 # Hyperblog 🔥
 Prueba repositorio del [Curso Git y GitHub][2]
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+sed -i 's|href="http|target="_blank" href="http|g' index.html
+
+Fuente: https://www.iteramos.com/pregunta/59844/markdown-abre-un-nuevo-enlace-de-ventana
 
 
 > Esta es una pequeña prueba de lo que se hará mas adelante en otros proyectos
