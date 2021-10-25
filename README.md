@@ -1,6 +1,6 @@
 # Hyperblog 🔥
 Prueba repositorio del [Curso Git y GitHub][2]
- <a href="http://www.deividtorresc.ml/ " target="_blank">aquí</a> 
+ 
 > Esta es una pequeña prueba de lo que se hará mas adelante en otros proyectos
 - J.T Maston:
 
