@@ -1,8 +1,8 @@
 # Hyperblog 🔥
 Prueba repositorio del [Curso Git y GitHub][2]
-
+ 
 > Esta es una pequeña prueba de lo que se hará mas adelante en otros proyectos
-- J.T Maston
+- J.T Maston:
 
 ##En este curso aprenderemos
 - Control de versiones
