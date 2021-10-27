@@ -9,6 +9,7 @@ Prueba repositorio del [Curso Git y GitHub][2]
 - Crear repositorio
 - Colaborar en proyectos
 - Comandos de Git
+- Creado por DeiviTorres
 
 Este **README.md** es un archivo de prueba de lo que serán grandes proyectos
 Visita la página web donde está alojado [**aquí**][1]
