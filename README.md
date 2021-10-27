@@ -10,6 +10,7 @@ Prueba repositorio del [Curso Git y GitHub][2]
 - Colaborar en proyectos
 - Comandos de Git
 - Creado por DeiviTorres
+- Programado en Ubuntu 20.04
 
 Este **README.md** es un archivo de prueba de lo que serán grandes proyectos
 Visita la página web donde está alojado [**aquí**][1]
